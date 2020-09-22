@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442176067789",
+    "firebase_url": "https://bpdapp-309e2.firebaseio.com",
+    "project_id": "bpdapp-309e2",
+    "storage_bucket": "bpdapp-309e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442176067789:android:f3f6216a129f2fffeb7184",
+        "android_client_info": {
+          "package_name": "com.example.bpdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442176067789-qbcvmn226rv72ef2prrgi4okn8n71k4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bpdapp",
+            "certificate_hash": "6ba2f8cb030d19560eaaa92f9ef5602197ade27f"
+          }
+        },
+        {
+          "client_id": "442176067789-s0c85ocn3au8j2cpivubj7i3ucd7d2gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE3ETcBUnD6Ume2TUi3q2YoYKOElt_GUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442176067789-s0c85ocn3au8j2cpivubj7i3ucd7d2gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Wisemind</string>
+    <string name="logo">WISEMIND</string>
+    <string name="sign_up">GET STARTED</string>
+    <string name="login">I ALREADY HAVE AN ACCOUNT</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="forgotpass">Forgot Password?</string>
+    <string name="phone">Phone</string>
+    <string name="intro_to_questions">Now, let me ask you some questions to determine where we will focus our efforts for improvements.</string>
+    <string name="coures">Courses</string>
+    <string name="skills">Skills</string>
+    <string name="abandonment">Abandonment</string>
+    <string name="unstable_relationships">Unstable Relationships</string>
+    <string name="unstable_selfimage">Unstable Self-Image</string>
+    <string name="paranoid">Paranoid</string>
+    <string name="impulsive">Impulsive</string>
+    <string name="self_injury">Self-Injury</string>
+    <string name="mood_swings">Mood Swings</string>
+    <string name="emptiness">Emptiness</string>
+    <string name="anger">Anger</string>
+    <string name="slogan">Free mental health help. Forever.</string>
+    <string name="Login2">Create Account</string>
+    <string name="email">Email</string>
+</resources>
